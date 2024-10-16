@@ -13,5 +13,11 @@ If a living cell has 2 to 3 neighbors, it lives.
 
 If an empty cell has three live neighbors, it becomes alive (reproduction).
 
-
-
+## Features
+* Control the speed of the simulation. Time intervals range from:
+  * 1/10 a second (fastest).
+  * 1/2 a second.
+  * 1 second.
+  * 2 seconds (slowest)
+* Refresh entire screen to start over.
+* Pause and start the simulation
